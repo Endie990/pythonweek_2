@@ -2,5 +2,7 @@ Day 1:
 - variables
 - data types
 - input functions
+- Funtions(inbuilt and user Made fuctions)...
+- cloning
 - Funtions(inbuilt and user Made fuctions)
 - new changes made from cloned repo
