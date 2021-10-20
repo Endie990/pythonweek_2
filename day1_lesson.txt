@@ -2,4 +2,5 @@ Day 1:
 - variables
 - data types
 - input functions
-- Funtions(inbuilt and user Made fuctions)
+- Funtions(inbuilt and user Made fuctions)...
+- cloning
