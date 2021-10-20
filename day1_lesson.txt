@@ -6,3 +6,4 @@ Day 1:
 - cloning
 - Funtions(inbuilt and user Made fuctions)
 - new changes made from cloned repo
+- changes from cloned by owner
